@@ -1,4 +1,3 @@
 <?php
-echo 'saad';
-
+return json_encode(['saad']);
 ?>
